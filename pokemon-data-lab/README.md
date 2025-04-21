@@ -128,5 +128,5 @@ Pokémon is a fun and familiar theme that makes complex data more engaging and a
 ## 📁 Project Structure
 
 ```bash
-├── report/                  # PDF version of the final report
+├── assets/                  # Screenshots for README
 ├── README.md                # Project documentation (this file)
