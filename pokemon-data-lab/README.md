@@ -2,7 +2,7 @@
 
 Welcome to the Pokémon Data Lab, a data visualization project that dives deep into the stats and characteristics of Pokémon across all generations. From base stats to breeding cycles and rarity categories, this interactive dashboard explores the world of Pokémon through data.
 
-![Dashboard Screenshot](pokemon-data-lab/Pokemon_Dashboard.pdf)
+![Dashboard Screenshot](pokemon-data-lab/assets/Pokemon_Dashboard_Screenshot.png)
 
 ---
 
