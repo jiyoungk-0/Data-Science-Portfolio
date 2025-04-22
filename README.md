@@ -6,7 +6,7 @@ Welcome to my Data Analytics & Interactive Dashboards portfolio! In this reposit
 - Data Analysis: R, SQL, Excel
 - Visualization: Power BI, Looker Studio
 
-## 📊 Projects
+## 📂 Projects
 Here are some of the key projects you'll find in this portfolio:
 
 1. pokemon-data-lab
