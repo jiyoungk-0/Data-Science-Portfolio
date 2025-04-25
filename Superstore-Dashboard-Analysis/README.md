@@ -8,6 +8,12 @@ This dashboard provides an insightful overview of Superstore's sales, profitabil
 
 In the highly competitive retail environment, understanding customer behavior, identifying top-performing products, and optimizing shipping efficiency are critical to success. This project was created to transform raw sales data into actionable insights, helping stakeholders in sales, marketing, operations, and customer service make informed, strategic decisions.
 
+## 🚀 Dashboard Link
+
+You can access the interactive dashboard by clicking the link below:
+
+[Superstore Dashboard - Google Looker Studio](https://lookerstudio.google.com/reporting/419d9461-5c52-4128-b320-9c12e1414a10)
+
 ### 🧩 Scope
 
 - **Page 1 - Executive Summary**: Key performance indicators (KPIs) and overall business trends, broken down by region and category.
