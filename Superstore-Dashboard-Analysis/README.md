@@ -1,5 +1,19 @@
 # Superstore Sales Dashboard Analysis
 
+### Dashboard Overview
+![Superstore Dashboard Screenshot](https://raw.githubusercontent.com/jiyoungk-0/Data-Science-Portfolio/main/Superstore-Dashboard-Analysis/assets/Superstore_Performance_Dashboard-images-0.jpg)  
+This is the main view of the interactive dashboard that analyzes sales, profitability, and discount impacts.
+
+### Sales and Product Analysis
+![Sales and Profit Trends](https://raw.githubusercontent.com/jiyoungk-0/Data-Science-Portfolio/main/Superstore-Dashboard-Analysis/assets/Superstore_Performance_Dashboard-images-1.jpg)  
+This view showcases the trends in sales and product over time.
+
+### Customer Insights
+![Customer Insights](https://raw.githubusercontent.com/jiyoungk-0/Data-Science-Portfolio/main/Superstore-Dashboard-Analysis/assets/Superstore_Performance_Dashboard-images-2.jpg)  
+This section analyzes customer behaviour and delivery insights.
+
+Check out the full interactive dashboard [Superstore Dashboard - Google Looker Studio](https://lookerstudio.google.com/reporting/419d9461-5c52-4128-b320-9c12e1414a10).
+
 ### **🔍 Project Overview**
 
 This dashboard provides an insightful overview of Superstore's sales, profitability, customer behaviour, and shipping performance from 2014 to 2018. It serves as a tool for stakeholders to identify key trends, high-performing products, regional opportunities, and operational inefficiencies to support data-driven decision-making across departments.
@@ -7,12 +21,6 @@ This dashboard provides an insightful overview of Superstore's sales, profitabil
 ### **💡 Why This Project**
 
 In the highly competitive retail environment, understanding customer behavior, identifying top-performing products, and optimizing shipping efficiency are critical to success. This project was created to transform raw sales data into actionable insights, helping stakeholders in sales, marketing, operations, and customer service make informed, strategic decisions.
-
-## 🚀 Dashboard Link
-
-You can access the interactive dashboard by clicking the link below:
-
-[Superstore Dashboard - Google Looker Studio](https://lookerstudio.google.com/reporting/419d9461-5c52-4128-b320-9c12e1414a10)
 
 ### 🧩 Scope
 
