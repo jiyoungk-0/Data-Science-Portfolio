@@ -9,8 +9,6 @@ Welcome to my Data Analytics & Interactive Dashboards portfolio! In this reposit
 ## 📂 Projects
 Here are some of the key projects you'll find in this portfolio:
 
-1. pokemon-data-lab
-A data analysis project exploring various attributes of Pokémon using R and visualizing the results to uncover interesting patterns.
+### 1. Superstore Dahsboard Analysis
+An interactive dashboard analyzing Superstore's sales, profitability, and discount impact. It offers actionable insights into product performance, customer behavior, and shipping efficiency, empowering stakeholders to make data-driven decisions.
 
-2. E-commerce-Business-Intelligence-Dashboard/Superstore-Performance-Dashboard
-A Looker dashboard analyzing sales, profit, and performance across different regions and categories for an e-commerce business.
