@@ -1,4 +1,4 @@
-# Superstore Sales Analysis Dashboard
+# Superstore Sales Dashboard Analysis
 
 ### **🔍 Project Overview**
 
