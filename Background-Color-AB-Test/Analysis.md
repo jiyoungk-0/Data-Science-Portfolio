@@ -76,7 +76,7 @@ sample estimates:
 ---
 
 ### Step 3: Conversion Rate Comparison by Group
-
+![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/main/Background-Color-AB-Test/assets/bargraph.png)
 - Conversion rate in Group B is significantly higher than Group A (14.1% vs 5.4%).
 
 ---
