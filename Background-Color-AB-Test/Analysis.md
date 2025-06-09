@@ -76,7 +76,7 @@ sample estimates:
 ---
 
 ### Step 3: Conversion Rate Comparison by Group
-![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/main/Background-Color-AB-Test/assets/bargraph.png)
+![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/main/Background-colour-AB-Test/assets/bargraph.png)
 - Conversion rate in Group B is significantly higher than Group A (14.1% vs 5.4%).
 
 ---
@@ -133,7 +133,7 @@ cor(ab_testing$Time.Spent, ab_testing$Conversion_Flag)
 
   - Location-based A/B test to examine regional behaviour differences.
 
-  - Test additional UI components (text color, button style, layout).
+  - Test additional UI components (text colour, button style, layout).
 
   - Analyze conversions by time of day or weekday.
 
