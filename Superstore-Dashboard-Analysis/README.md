@@ -39,14 +39,12 @@ Each page of the dashboard highlights different aspects of the business, from ge
 - Average Discount: 15.62%
 - Orders: 9,994
 
----
 
 **2. Sales & Profit Trends**
 
 - Line Graph: Displayed monthly sales and profit from 2014 Q1 to 2018 Q1
 - Q4 consistently showed peak sales due to holiday demand, while Q1 had the lowest sales, indicating a recurring seasonal pattern.
 
----
 
 **3. Sales by Category**
 
@@ -57,7 +55,6 @@ Each page of the dashboard highlights different aspects of the business, from ge
 - Despite Office Supplies leading sales, the categories are almost equally distributed, indicating no dominant category in sales performance.
 - *Regional sales distribution was also analyzed to showcase key areas for growth.*
 
----
 
 **4. Product Profitability & Top-Selling Products**
 
@@ -65,7 +62,6 @@ Each page of the dashboard highlights different aspects of the business, from ge
 - Sales vs Profit chart: High-selling products like *Tables* and *Machines* showed low or negative profit, highlighting a need for better margin management.
 - A Product Performance Table displayed products with negative profits, marked in red, and sorted by sales volume.
 
----
 
 **5. Discount Impact on Profitability**
 
@@ -74,7 +70,6 @@ Each page of the dashboard highlights different aspects of the business, from ge
     - *Cubify CubeX 3D Printer* had high discount but low profit (negative), suggesting that discounts may harm profitability if not strategically applied.
 - Bubble size represented sales volume for each product, showing which items had both high sales and low profit.
 
----
 
 **6. Shipping Method Performance**
 
@@ -82,7 +77,6 @@ Each page of the dashboard highlights different aspects of the business, from ge
     - **Standard Class** was the most efficient, with the highest volume and profitability.
     - **Same Day**  shipping incurred higher costs with lower returns, indicating the need to reconsider this shipping strategy for cost-effectiveness
 
----
 
 **7. City-Level Performance**
 
@@ -93,8 +87,6 @@ Each page of the dashboard highlights different aspects of the business, from ge
     4. San Francisco
     5. Detroit
 - *New York City* and *Los Angeles* were the leading cities in terms of sales, indicating ideal areas for future marketing efforts.
-
----
 
 **8. Loss-Making Products**
 
