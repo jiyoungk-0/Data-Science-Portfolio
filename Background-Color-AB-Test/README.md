@@ -1,10 +1,10 @@
 # Analysis of Background Colour Impact on User Conversion
 
 ### **🔍 Project Overview**
-This project analyzes the effect of changing a website’s background color from white to black on user engagement, specifically focusing on conversion rates. By conducting an A/B test with two groups exposed to different background colors, we aim to determine if the design change significantly affects user behavior and conversion performance.
+This project analyzes the effect of changing a website’s background colour from white to black on user engagement, specifically focusing on conversion rates. By conducting an A/B test with two groups exposed to different background colours, we aim to determine if the design change significantly affects user behaviour and conversion performance.
 
 ### **💡 Why This Project**
-In digital products, visual design changes can heavily influence user actions such as conversions. This experiment tests a simple but impactful UI modification to verify if altering the background color improves conversion rates, helping guide data-driven UX design decisions.
+In digital products, visual design changes can heavily influence user actions such as conversions. This experiment tests a simple but impactful UI modification to verify if altering the background colour improves conversion rates, helping guide data-driven UX design decisions.
 
 ### **🧩 Scope**
 
@@ -20,7 +20,7 @@ In digital products, visual design changes can heavily influence user actions su
 
 #### 1. Conversion Rate Comparison
 
-![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/main/Background-Color-AB-Test/assets/bargraph.png)
+![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/main/Background-colour-AB-Test/assets/bargraph.png)
 
 - Group A (white): 5.4% conversion rate
 
@@ -44,7 +44,7 @@ In digital products, visual design changes can heavily influence user actions su
 
 ### **🔍 Key Insights**
 
-- Changing the background color to black significantly increases user conversions.
+- Changing the background colour to black significantly increases user conversions.
 
 - The effect is consistent across devices, with stronger uplift on mobile users.
 
@@ -57,7 +57,7 @@ In digital products, visual design changes can heavily influence user actions su
 - Data cleaning involved flagging conversion as binary for analysis and grouping users by experimental condition.
 
 ### **📝 Project Summary**
-This project demonstrates how a simple UI change—background color adjustment—can significantly impact key user engagement metrics. The A/B test setup, coupled with statistical validation and visualization, supports confident decision-making to implement the black background design. Additional experiments are suggested to explore location-based effects and other UI element optimizations.
+This project demonstrates how a simple UI change—background colour adjustment—can significantly impact key user engagement metrics. The A/B test setup, coupled with statistical validation and visualization, supports confident decision-making to implement the black background design. Additional experiments are suggested to explore location-based effects and other UI element optimizations.
 
 ### **🚀 Project Conclusion**
 The black background design clearly outperforms the white background in driving conversions. This insight can guide UI/UX teams toward data-backed design improvements. Further testing is recommended before full deployment, especially considering the synthetic nature of the dataset.
