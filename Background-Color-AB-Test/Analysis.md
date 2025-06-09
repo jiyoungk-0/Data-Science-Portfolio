@@ -1,15 +1,15 @@
-# Analyzing the Impact of Website Background Color on User Behaviour
+# Analyzing the Impact of Website Background Colour on User Behaviour
 
 ## Project Overview
 
 ### **Objective:**
-The goal of this analysis is to evaluate whether changing the website background color from white (control) to black (variant) leads to a significant improvement in user engagement, specifically in conversion rates.
+The goal of this analysis is to evaluate whether changing the website background colour from white (control) to black (variant) leads to a significant improvement in user engagement, specifically in conversion rates.
 
 ### **Motivation:**
-To validate the effectiveness of UI/UX changes based on user behavior data and explore potential for implementation in real-world services.
+To validate the effectiveness of UI/UX changes based on user behaviour data and explore potential for implementation in real-world services.
 
 ### **Approach:**
-1. **A/B Testing**: Users were split into two groups based on background color. We calculated the conversion rate for each group.
+1. **A/B Testing**: Users were split into two groups based on background colour. We calculated the conversion rate for each group.
 
 2. **Proportion Test**: We performed a two-sample proportion test to determine if the difference in conversion rates between groups was statistically significant.
 
@@ -51,7 +51,7 @@ To validate the effectiveness of UI/UX changes based on user behavior data and e
 | A     | 2,519  | 136         | 5.4%             |
 | B     | 2,481  | 349         | 14.1%            |
 
-- Group B (Black background) had **2.6x higher** conversion rate compared to Group A.
+- Group B (Black background) had 2.6x higher conversion rate compared to Group A.
 
 ---
 
@@ -76,6 +76,7 @@ sample estimates:
 ---
 
 ### Step 3: Conversion Rate Comparison by Group
+
 - Conversion rate in Group B is significantly higher than Group A (14.1% vs 5.4%).
 
 ---
@@ -93,8 +94,6 @@ sample estimates:
 - Conversion rates increased across all devices for Group B.
 - Notably higher impact on mobile users.
 
----
-
 ####  Correlation with Time and Page Views
 
 ```r
@@ -108,19 +107,31 @@ cor(ab_testing$Time.Spent, ab_testing$Conversion_Flag)
 ```
 
 - Weak correlation between conversion and either page views or time spent.
+- Suggests UI design had more direct influence than session behaviour.
 
-- Suggests UI design had more direct influence than session behavior.
+---
+
+### Key Findings:
+
+- The black background group (B) showed a 14.1% conversion rate, compared to 5.4% for the white background group (A).
+
+- The difference was statistically significant (p < 2.2e-16).
+
+- The conversion increase was consistent across both desktop and mobile devices, with a slightly stronger effect on mobile.
+
+- Time spent and page views had almost no correlation with conversion, suggesting the visual design was a more direct influence.
 
 ---
 
 ### Conclusions & Recommendations
+
 - Switching to a black background significantly increased conversions.
 
 - Recommended to adopt this design change, with caution due to synthetic data.
 
 - Further experiments suggested:
 
-  - Location-based A/B test to examine regional behavior differences.
+  - Location-based A/B test to examine regional behaviour differences.
 
   - Test additional UI components (text color, button style, layout).
 
