@@ -1,4 +1,4 @@
-# Analysis of Background Color Impact on User Conversion
+# Analysis of Background Colour Impact on User Conversion
 
 ### **🔍 Project Overview**
 This project analyzes the effect of changing a website’s background color from white to black on user engagement, specifically focusing on conversion rates. By conducting an A/B test with two groups exposed to different background colors, we aim to determine if the design change significantly affects user behavior and conversion performance.
