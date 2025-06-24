@@ -20,7 +20,7 @@ In digital products, visual design changes can heavily influence user actions su
 
 #### 1. Conversion Rate Comparison
 
-![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/main/Background-colour-AB-Test/assets/bargraph.png)
+![bargraph](https://github.com/jiyoungk-0/Data-Science-Portfolio/blob/458a711d90aac8782e056d5a807a875f6f8db863/Background-Color-AB-Test/assets/bargraph.png)
 
 - Group A (white): 5.4% conversion rate
 
